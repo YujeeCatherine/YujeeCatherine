@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @YujeeCatherine
-- 👀 I’m interested in Medical Imaging, Artificial Intelligence !
-- 🌱 I’m currently learning Biomedical engineering and Computer Science
-- 💞️ I’m looking for Graduate School now!
+- 🌱 Biomedical Systems Informatics
 - 📫 Email me if you want to reach me, yujeecc@gmail.com
 
 <!---
